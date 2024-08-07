@@ -12,7 +12,7 @@ export default function PushNotification() {
         </div>
         <div className="text-MT-onPrimaryContainer text-sm">
           <h4 className="font-bold tracking-tighter">Birthday Alert 🎂</h4>
-          <div className=" leading-tight">
+          <div className=" text-xs mt-1">
             Your peer and defender of Ukraine Alex celebrates birthday. Join The
             Celebration!
           </div>
